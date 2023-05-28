@@ -49,17 +49,15 @@ make
   
 # Presentation
 
-## Here is the interface with the question and the possible answers as well as the percentage of correct answer
+## Here is 
   
 ![1](https://github.com/YassineProDev/Qt_CircularAreaChart/assets/120946916/12217039-b34e-4079-a172-c1f302835b22)
 
-## if your answer is correct you will get the message "correct".
+## You can change the name and value of your variables from the edit menu
   
 ![2](https://github.com/YassineProDev/Qt_CircularAreaChart/assets/120946916/f8a872b0-af15-4111-b633-b933447feb47)
 
-
-## If your answer is wrong the correct answer will be given.
-
+## Add variables, delete variables, modify the maximum value of variables
 
 ![3](https://github.com/YassineProDev/Qt_CircularAreaChart/assets/120946916/5fc3303c-4838-4cc0-a43c-484c6a08dc71)
 
