@@ -11,7 +11,7 @@ Installe Qt with this link : https://www.qt.io/download-open-source
 ## Opening and compilation of the project
 
 ### Compile with Qt IDE
-Open the file "Qt_Self-AssessmentQuiz.pro" with Qt and compile the project.
+Open the file "CircularAreaChart.pro" with Qt and compile the project.
 
 ### Compile manually
  - Add the path to your QMake bin folder to the Windows PATH environment variable by using the following steps:
@@ -36,11 +36,11 @@ make
 ```
 - Type the command
 ```bash
-.\Self-AssessmentQuiz.exe
+.\CircularAreaChart.exe
 ```
  - If it doesn't work type
 ```bash
-.\release\Self-AssessmentQuiz.exe
+.\release\CircularAreaChart.exe
 ```
 
 
@@ -49,7 +49,7 @@ make
   
 # Presentation
 
-## Here is 
+## The application allows you to visualize the data on the left as a graph on the right
   
 ![1](https://github.com/YassineProDev/Qt_CircularAreaChart/assets/120946916/12217039-b34e-4079-a172-c1f302835b22)
 
