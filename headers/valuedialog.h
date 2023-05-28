@@ -17,7 +17,6 @@ class valueDialog: public QDialog
     Q_OBJECT
 public:
     valueDialog(const statisticalValue& s);
-    ~valueDialog();
     statisticalValue values(const statisticalValue& s) const;
     void editValue(const statisticalValue& Value);
     void editNameValue(const statisticalValue& Value);

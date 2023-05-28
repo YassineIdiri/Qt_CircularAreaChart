@@ -8,12 +8,7 @@ valueDialog::valueDialog(const statisticalValue& Value) :
 }
 
 
-valueDialog::~valueDialog()
-{
-    for (QDoubleSpinBox* spinBox : d_values) {
-        delete spinBox;
-    }
-}
+
 
 void valueDialog::editValue(const statisticalValue& Value)
 {
