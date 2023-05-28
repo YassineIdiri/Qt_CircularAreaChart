@@ -49,7 +49,7 @@ make
   
 # Presentation
 
-## The application allows you to visualize the data on the left as a graph on the right
+## The application allows you to visualize the data on the left as a circular area chart
   
 ![1](https://github.com/YassineProDev/Qt_CircularAreaChart/assets/120946916/12217039-b34e-4079-a172-c1f302835b22)
 
