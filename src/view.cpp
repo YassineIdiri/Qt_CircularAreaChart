@@ -1,7 +1,7 @@
 #include "../headers/view.h"
 #include "../headers/mainwindow.h"
 #include "../headers/statisticalvalue.h"
-#include "../headers/widgetCircularArea.h"
+#include "../headers/widgetcirculararea.h"
 
 view::view(mainWindow* w, QObject *parent) : QObject{parent}, d_window{w}
 {
